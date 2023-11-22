@@ -1,0 +1,1 @@
+PHOTO_PATH = 'path/to/your/photo.jpg'
